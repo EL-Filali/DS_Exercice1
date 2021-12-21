@@ -1,1 +1,1 @@
-print("Hello c est exercice1 du ds")
+print("Hello c est exercice1 du ds  (modifie)")
